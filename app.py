@@ -2,9 +2,13 @@ import streamlit as st
 import joblib
 import re
 
+from PIL import Image
+
+logo = Image.open("icon.png")
+
 st.set_page_config(
     page_title="Tamil NLP Detector",
-    page_icon="🔍",
+    page_icon=logo,
     layout="wide"
 )
 
@@ -225,7 +229,7 @@ def show_result_page():
     st.markdown("""
     <div class="hero-banner">
         <div class="hero-watermark-top">தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ்</div>
-        <div class="hero-title">🔍 Tamil NLP Detector</div>
+        <div class="hero-title">Tamil NLP Detector</div>
         <div class="hero-tamil">பகுப்பாய்வு முடிவு — Analysis Result</div>
         <div class="hero-sub">Sentiment Analysis · Fake News Detection · Real News Verification</div>
         <div class="hero-watermark-bot">தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ்</div>
@@ -363,7 +367,7 @@ def show_result_page():
 
     st.markdown("""
     <div style="text-align:center;color:rgba(255,255,255,0.2);font-size:0.75rem;padding:1.5rem;margin-top:1rem">
-        🔍 Tamil NLP Detector · Built by Sudalaimuthumari M · Streamlit<br>
+         Tamil NLP Detector · Built by Sudalaimuthumari M · Streamlit<br>
         <span style="font-family:'Noto Sans Tamil',sans-serif;font-size:0.85rem;opacity:0.5">தமிழ் · அறிவியல் · தொழில்நுட்பம்</span>
     </div>
     """, unsafe_allow_html=True)
@@ -379,7 +383,7 @@ def show_home_page():
     st.markdown("""
     <div class="hero-banner">
         <div class="hero-watermark-top">தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ்</div>
-        <div class="hero-title">🔍 Tamil NLP Detector</div>
+        <div class="hero-title"> Tamil NLP Detector</div>
         <div class="hero-tamil">தமிழ் உரை பகுப்பாய்வி</div>
         <div class="hero-sub">Sentiment Analysis · Fake News Detection · Real News Verification</div>
         <div class="hero-watermark-bot">தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ் • தமிழ்</div>
@@ -545,7 +549,7 @@ def show_home_page():
 
     st.markdown("""
     <div style="text-align:center;color:rgba(255,255,255,0.2);font-size:0.75rem;padding:1.5rem;margin-top:1rem">
-        🔍 Tamil NLP Detector · Built by Sudalaimuthumari M · Streamlit<br>
+         Tamil NLP Detector · Built by Sudalaimuthumari M · Streamlit<br>
         <span style="font-family:'Noto Sans Tamil',sans-serif;font-size:0.85rem;opacity:0.5">தமிழ் · அறிவியல் · தொழில்நுட்பம்</span>
     </div>
     """, unsafe_allow_html=True)
