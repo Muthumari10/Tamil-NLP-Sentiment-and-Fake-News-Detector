@@ -73,7 +73,7 @@ tamil_nlp_detector/
 ├── train_model.py          # Model training script
 ├── tamil_nlp_model.pkl     # Trained model (generated after training)
 │
-├── tamil_nlp_full.csv      # Full dataset (820 rows)
+├── tamil_data.csv      # Full dataset (820 rows)
 ├── train.csv               # Training split (656 rows, 80%)
 ├── validation.csv          # Validation split (82 rows, 10%)
 ├── test.csv                # Test split (82 rows, 10%)
@@ -88,8 +88,8 @@ tamil_nlp_detector/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Muthumari10/tamil_nlp_detector.git
-cd tamil_nlp_detector
+git clone https://github.com/Muthumari10/Tamil-NLP-Sentiment-and-Fake-News-Detector.gitt
+cd Tamil-NLP-Sentiment-and-Fake-News-Detector
 ```
 
 ### 2. Install dependencies
@@ -132,6 +132,8 @@ streamlit
 scikit-learn
 pandas
 joblib
+numpy
+matplotlib
 ```
 
 Install with:
