@@ -172,7 +172,7 @@ pip install streamlit scikit-learn pandas joblib
 B.Tech — Artificial Intelligence & Data Science
 
 [![GitHub](https://img.shields.io/badge/GitHub-Muthumari10-181717?style=flat&logo=github)](https://github.com/Muthumari10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/sudalaimuthumari-m-a8732a259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sudalaimuthumari-m-a8732a259)
 [![Kaggle](https://img.shields.io/badge/Kaggle-muthumarii-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/muthumarii)
 
 ---
