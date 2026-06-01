@@ -172,18 +172,18 @@ pip install streamlit scikit-learn pandas joblib
 B.Tech — Artificial Intelligence & Data Science
 
 [![GitHub](https://img.shields.io/badge/GitHub-Muthumari10-181717?style=flat&logo=github)](https://github.com/Muthumari10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sudalaimuthumarim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/sudalaimuthumari-m-a8732a259)
 [![Kaggle](https://img.shields.io/badge/Kaggle-muthumarii-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/muthumarii)
 
 ---
 
 ## 📄 License
 
-Dataset licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Dataset licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/).
 Code is open source — feel free to use and build upon this project.
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for Tamil language NLP · தமிழ் · அறிவியல் · தொழில்நுட்பம்</sub>
+  <sub> Empowering தமிழ் through AI & NLP · தமிழ் · அறிவியல் · தொழில்நுட்பம்</sub>
 </div>
